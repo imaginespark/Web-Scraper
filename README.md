@@ -4,14 +4,14 @@
 
 ## 豆瓣电影Top250
 
-![](doubantop250_scarper/doubantop250-screenshot.png)
+![](doubantop250_scraper/doubantop250-screenshot.png)
 
 ## 电影天堂的电影资源
 
-![](dytt_scarper/dytt-screenshot.png)
+![](dytt_scraper/dytt-screenshot.png)
 
 ## SimpleDesktops壁纸下载
 
-![](wallpaper_scarper/wallpaper_screenshot_1.png)
+![](wallpaper_scraper/wallpaper_screenshot_1.png)
 
-![](wallpaper_scarper/wallpaper_screenshot_2.png)
+![](wallpaper_scraper/wallpaper_screenshot_2.png)
